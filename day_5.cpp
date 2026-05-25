@@ -47,7 +47,7 @@ int main(){
     cout<<"Enter n: ";
     cin>>n;
 
-    for(int i=1; i<=n/2; i++){
+    for(int i=1; i<=n; i++){
         if(n%i==0){
             cout<<i<<"\t";
         }
@@ -58,7 +58,7 @@ int main(){
     cout<<"Enter n: ";
     cin>>n;
 
-    for(int i=1; i<=n/2; i++){
+    for(int i=1; i<=n; i++){
         if(n%i==0){
             int is_prime=1;
             for(int j=2; j*j<=i; j++){
