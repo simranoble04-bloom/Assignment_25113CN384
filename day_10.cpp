@@ -31,7 +31,7 @@ int main(){
                   *****
                    ***
                     *
-    */
+    */ 
     int n;
     cout<<"Enter number: ";
     cin>>n;
