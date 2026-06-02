@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 int main(){
   //21. Write a program to Convert decimal to binary.
