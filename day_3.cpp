@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(){
+int main(){ 
 
     //9. Write a program to Check whether a number is prime.
     int n, is_prime=1;
