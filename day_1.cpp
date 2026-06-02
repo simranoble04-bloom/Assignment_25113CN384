@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main() {
-    // 1. Write a program to Calculate sum of first N natural numbers.
+    // 1. Write a program to Calculate sum of first N natural numbers. 
     int n, sum=0;
     cout<<"Enter n: ";
     cin>>n;
