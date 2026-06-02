@@ -1,11 +1,11 @@
 #include<iostream>
 #include<cmath>
-using namespace std;
+using namespace std; 
 
 int main(){
 
     //29. Write a program to Print half pyramid pattern
-    int n;
+    int n; 
     cout<<"Enter number: ";
     cin>>n;
 
