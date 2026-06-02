@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-
+ 
     /*33. Write a program to Print reverse star pattern.
        *****
        ****
