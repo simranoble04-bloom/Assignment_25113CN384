@@ -5,7 +5,7 @@ int main(){
 
     //13. Write a program to Generate Fibonacci series.
     int n, a = 0, b = 1;
-    cout << "Enter number of terms: ";
+    cout << "Enter number of terms: "; 
     cin >> n;
     cout << "Fibonacci Series: ";
     for(int i = 1; i <= n; i++){
