@@ -3,7 +3,7 @@ using namespace std:
 
 int main(){
   //5. WAP to find the sum of digits of a number
-    int n, sum=0, n_cpy, d;
+    int n, sum=0, n_cpy, d; 
     cout<<"Enter n: ";
     cin>>n;
     n_cpy=n;
