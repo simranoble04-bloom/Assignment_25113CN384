@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cmath>
-using namespace std;
+using namespace std; 
 
 //25. Write a program to Recursive factorial.
 int factorial(int n){
