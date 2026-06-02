@@ -3,7 +3,7 @@ using namespace std;
 
 //41. Write a program to Write function to find sum of two numbers.
 int sum(int a, int b){
-    return (a+b);
+    return (a+b); 
 }
 
 //42. Write a program to Write function to find maximum of two numbers.
