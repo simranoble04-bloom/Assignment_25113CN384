@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    //13. Write a program to Generate Fibonacci series.
+    //13. Write a program to Generate Fibonacci series. 
     int n, a = 0, b = 1;
     cout << "Enter number of terms: "; 
     cin >> n;
