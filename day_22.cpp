@@ -12,14 +12,16 @@ int main(){
 
     
     //Q86 Write a program to Count words in a sentence.
-    int i=0, nSpace =0;
-    while(s1[i] != '\0'){ 
-        if(s1[i] == ' '){ //counting spaces
-            nSpace++;
+    int count = 0;
+    int i = 0;
+    
+    while(s1[i] != '\0'){
+        if(s1[i] != ' ' && (i == 0 || s1[i-1] == ' ')){
+            count++;
         }
         i++;
     }
-    cout<<"Number of words in string: "<<nSpace+1<<endl; //words -> spaces+1
+    cout << "Number of words = " << count;
 
 
     //Q87 Write a program to Character frequency.
